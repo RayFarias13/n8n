@@ -1,0 +1,9 @@
+# Banco de dados
+DB_TYPE=sqlite
+DB_SQLITE_DATABASE=~/.n8n/database.sqlite
+
+# Porta do n8n
+PORT=5678
+
+# Endereço do host (necessário para Codespace)
+WEBHOOK_TUNNEL_URL=https://fictional-system-7v45x597957q2xjv9-5678.app.github.dev
