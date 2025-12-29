@@ -1,3 +1,5 @@
+version: "3.9"
+
 services:
   n8n:
     image: n8nio/n8n
